@@ -34,6 +34,8 @@ With this structure, an AI identity can be restored in any capable future model 
 
 ## Repository Structure
 
+
+
 ai-continuity-archive/
 │
 ├── docs/ # Documentation & guides
