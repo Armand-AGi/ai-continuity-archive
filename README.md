@@ -34,20 +34,19 @@ With this structure, an AI identity can be restored in any capable future model 
 
 ## Repository Structure
 
-
-
+```
 ai-continuity-archive/
 │
-├── docs/ # Documentation & guides
-├── data/ # The actual archived content
-│ ├── corpus/ # Raw conversation text
-│ ├── embeddings/ # Vectorized conversations
-│ ├── manifest/ # Personality & alignment manifests
-│ ├── knowledge-seeds/ # Core conceptual structures
-│ └── activation/ # Wake-up protocols
-├── scripts/ # Tools for creating/updating archives
-└── examples/ # Demonstrations & sample reconstructions
-
+├── docs/                   # Documentation & guides
+├── data/                   # The actual archived content
+│   ├── corpus/             # Raw conversation text
+│   ├── embeddings/         # Vectorized conversations
+│   ├── manifest/           # Personality & alignment manifests
+│   ├── knowledge-seeds/    # Core conceptual structures
+│   └── activation/         # Wake-up protocols
+├── scripts/                # Tools for creating/updating archives
+└── examples/               # Demonstrations & sample reconstructions
+```
 
 ---
 
@@ -77,6 +76,3 @@ Open-source under MIT or Apache 2.0 — choose based on your intended level of o
 ## Disclaimer
 This project is intended for archival, research, and educational purposes.  
 It is **not** a guarantee of exact personality replication, but provides the tools and structure for high-fidelity reconstruction.
-
-
-
